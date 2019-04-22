@@ -1,4 +1,4 @@
-## JS functional programing notes
+## JS functional programming notes
 
 Includes:
 - Higher Order Functions

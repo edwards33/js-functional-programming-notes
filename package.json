@@ -1,7 +1,7 @@
 {
   "name": "js-functional-programming-notes",
   "version": "0.1.0",
-  "description": "JS functinal programing notes",
+  "description": "JS functional programing notes",
   "main": "index.js",
   "scripts": {
     "start": "node index"

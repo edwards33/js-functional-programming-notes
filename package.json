@@ -1,0 +1,14 @@
+{
+  "name": "js-functional-programming-notes",
+  "version": "0.1.0",
+  "description": "JS functinal programing notes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Edward",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.2.0"
+  }
+}
